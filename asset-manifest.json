@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-css-example/static/css/main.07da3517.chunk.css",
+    "main.js": "/react-tailwind-css-example/static/js/main.27eba58e.chunk.js",
+    "main.js.map": "/react-tailwind-css-example/static/js/main.27eba58e.chunk.js.map",
+    "runtime-main.js": "/react-tailwind-css-example/static/js/runtime-main.e71a0f4e.js",
+    "runtime-main.js.map": "/react-tailwind-css-example/static/js/runtime-main.e71a0f4e.js.map",
+    "static/js/2.0c364b25.chunk.js": "/react-tailwind-css-example/static/js/2.0c364b25.chunk.js",
+    "static/js/2.0c364b25.chunk.js.map": "/react-tailwind-css-example/static/js/2.0c364b25.chunk.js.map",
+    "index.html": "/react-tailwind-css-example/index.html",
+    "precache-manifest.25a9c4bf3290b0ac78b426709943dfd5.js": "/react-tailwind-css-example/precache-manifest.25a9c4bf3290b0ac78b426709943dfd5.js",
+    "service-worker.js": "/react-tailwind-css-example/service-worker.js",
+    "static/css/main.07da3517.chunk.css.map": "/react-tailwind-css-example/static/css/main.07da3517.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e71a0f4e.js",
+    "static/js/2.0c364b25.chunk.js",
+    "static/css/main.07da3517.chunk.css",
+    "static/js/main.27eba58e.chunk.js"
+  ]
+}
